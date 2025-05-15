@@ -97,11 +97,13 @@ group by med_name
 ##3. Create interactive report in Looker Studio
 Registration_clean and visits are loaded to Looker Studio and joined via a left join on patient_id.
 
-On 2 pages the interactive dashboard uses two filters for the users to select the pet type (cat, dog, hamster) and/or the dates which need to get analyzed.
+On 2 pages the interactive dashboard uses filters to select the pet type (cat, dog, hamster) and/or the dates which need to get analyzed.
 
 Page 1 describes the population on the top half of the screen and the visit dependent analysis for the diagnoses in pet types and breed as well as the changes of diagnoses over time and the average medication costs over time (only costs of medication are considered which are used in the clinic)
-![image](https://github.com/user-attachments/assets/4a3ca07c-342a-4ba0-bfce-60208682c889)
+![image](https://github.com/user-attachments/assets/0dc44412-95c1-4a98-ab90-9f1b5738f344)
+
 
 On Page 2 Diagnoses per pet types and breeds, average age of patients and medication costs per pet type are displayed.
 
-![image](https://github.com/user-attachments/assets/575203c4-c8be-47c9-b24a-88c9308aecca)
+![image](https://github.com/user-attachments/assets/d60a970a-15bc-4db3-b1bd-2372857e632f)
+
