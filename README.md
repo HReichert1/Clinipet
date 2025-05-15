@@ -94,7 +94,7 @@ group by med_name
 
 --- answer: Palladia (Toceranib Phosphate)generates the most revenue (stock-out), avg spent of packs of this med: 108.125
 ```
-##3. Create interactive report in Looker Studio
+## 3. Create interactive report in Looker Studio
 Registration_clean and visits are loaded to Looker Studio and joined via a left join on patient_id.
 
 On 2 pages the interactive dashboard uses filters to select the pet type (cat, dog, hamster) and/or the dates which need to get analyzed.
