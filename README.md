@@ -107,3 +107,6 @@ On Page 2 Diagnoses per pet types and breeds, average age of patients and medica
 
 ![image](https://github.com/user-attachments/assets/d60a970a-15bc-4db3-b1bd-2372857e632f)
 
+Link to Looker Studio report: 
+[Looker Studio](https://drive.google.com/drive/folders/1issbqUFS2_V4RYgD_y5N3nUHXmIvIQG-?usp=sharing)
+
